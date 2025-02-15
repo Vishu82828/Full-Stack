@@ -8,6 +8,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
+        {/* Logo Sections */}
         <Link to="/" className="navbar-logo">
           NGO Name
         </Link>
